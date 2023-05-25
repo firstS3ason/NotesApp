@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\bin\Debug\net7.0\Notes.Db.deps.json
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\bin\Debug\net7.0\Notes.Db.dll
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\bin\Debug\net7.0\Notes.Db.pdb
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\obj\Debug\net7.0\Notes.Db.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\obj\Debug\net7.0\Notes.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\obj\Debug\net7.0\Notes.Db.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\obj\Debug\net7.0\Notes.Db.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\obj\Debug\net7.0\Notes.Db.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\obj\Debug\net7.0\Notes.Db.dll
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\obj\Debug\net7.0\refint\Notes.Db.dll
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\obj\Debug\net7.0\Notes.Db.pdb
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\obj\Debug\net7.0\ref\Notes.Db.dll
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\bin\Debug\net7.0\Notes.Db.runtimeconfig.json
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\bin\Debug\net7.0\Notes.Models.dll
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\bin\Debug\net7.0\Notes.Models.pdb
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\obj\Debug\net7.0\Notes.Db.csproj.CopyComplete
+C:\Users\Administrator\Desktop\NotesApp\Notes.Db\obj\Debug\net7.0\Notes.Db.genruntimeconfig.cache

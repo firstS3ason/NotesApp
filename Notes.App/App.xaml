@@ -1,0 +1,20 @@
+﻿<Application x:Class="Notes.App.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Notes.App"
+             StartupUri="Views/Windows/MainWindow.xaml"
+             xmlns:mDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:locators="clr-namespace:Notes.App.ModelViews.Locators"
+             >
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <mDesign:BundledTheme BaseTheme="Dark" PrimaryColor="DeepPurple" SecondaryColor="Lime" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+
+                <ResourceDictionary Source="Resources/Styles/GridSplitters.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            <locators:ViewModelLocator x:Key="Locator"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
